@@ -1,0 +1,7 @@
+DEBUG = True
+TURBONOMIC_URL = 'x.demo.turbonomic.com'
+TURBONOMIC_USER = ''
+TURBONOMIC_PASS = ''
+
+APP_DOWNLOAD_DIRECTORY = ''
+APP_CSV_PATH = ''
